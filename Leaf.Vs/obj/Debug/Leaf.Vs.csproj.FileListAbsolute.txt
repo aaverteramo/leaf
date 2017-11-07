@@ -1,0 +1,14 @@
+C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Leaf.Vs.dll
+C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Leaf.Vs.pdb
+C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Leaf.dll
+C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Leaf.pdb
+C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\obj\Debug\Leaf.Vs.csprojResolveAssemblyReference.cache
+C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\obj\Debug\Leaf.Vs.dll
+C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\obj\Debug\Leaf.Vs.pdb
+C:\DEV\Self\Leaf\Leaf.Vs\obj\Debug\Leaf.Vs.csprojResolveAssemblyReference.cache
+C:\DEV\Self\Leaf\Leaf.Vs\bin\Debug\Leaf.Vs.dll
+C:\DEV\Self\Leaf\Leaf.Vs\bin\Debug\Leaf.Vs.pdb
+C:\DEV\Self\Leaf\Leaf.Vs\bin\Debug\Leaf.dll
+C:\DEV\Self\Leaf\Leaf.Vs\bin\Debug\Leaf.pdb
+C:\DEV\Self\Leaf\Leaf.Vs\obj\Debug\Leaf.Vs.dll
+C:\DEV\Self\Leaf\Leaf.Vs\obj\Debug\Leaf.Vs.pdb

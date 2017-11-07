@@ -1,0 +1,10 @@
+C:\DEV\Self\Leaf\bin\Debug\Leaf.dll
+C:\DEV\Self\Leaf\bin\Debug\Leaf.pdb
+C:\DEV\Self\Leaf\obj\Debug\Leaf.csprojResolveAssemblyReference.cache
+C:\DEV\Self\Leaf\obj\Debug\Leaf.dll
+C:\DEV\Self\Leaf\obj\Debug\Leaf.pdb
+C:\DEV\Self\Leaf\Leaf\bin\Debug\Leaf.dll
+C:\DEV\Self\Leaf\Leaf\bin\Debug\Leaf.pdb
+C:\DEV\Self\Leaf\Leaf\obj\Debug\Leaf.dll
+C:\DEV\Self\Leaf\Leaf\obj\Debug\Leaf.pdb
+C:\DEV\Self\Leaf\Leaf\obj\Debug\Leaf.csprojResolveAssemblyReference.cache

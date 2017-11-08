@@ -1,7 +1,0 @@
-C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Microsoft.Build.SolutionHelper.dll
-C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Microsoft.Build.SolutionHelper.pdb
-C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Leaf.dll
-C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\bin\Debug\Leaf.pdb
-C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\obj\Debug\Microsoft.Build.SolutionHelper.csprojResolveAssemblyReference.cache
-C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\obj\Debug\Microsoft.Build.SolutionHelper.dll
-C:\DEV\Self\powershell\Microsoft.Build.Ps\Microsoft.Build.SolutionHelper\obj\Debug\Microsoft.Build.SolutionHelper.pdb
